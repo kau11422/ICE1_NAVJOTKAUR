@@ -9,6 +9,7 @@ import java.util.Scanner;
  *
  * @author dancye
  * @author Paul Bonenfant Jan 25, 2022 
+ *  Author: Navjot Kaur,  29 January, 2023 
  */
 public class CardTrick {
     
